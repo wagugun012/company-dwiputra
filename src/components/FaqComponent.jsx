@@ -1,5 +1,5 @@
 import { Container, Row, Col } from "react-bootstrap";
-import { Product } from "../data/index";
+import { Product } from "../index";
 
 const FaqComponent = () => {
   

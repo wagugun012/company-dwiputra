@@ -1,6 +1,6 @@
 import { Container, Row, Col } from "react-bootstrap";
-import HeroImage from "../assets/bc-4.png";
-import { kelasTerbaru, Product  } from "../data/index"; // ✅ TAMBAHKAN IMPORT semuaKelas dan faq
+import HeroImage from "../bc-4.png"; // ✅ TAMBAHKAN IMPORT HeroImage
+import { kelasTerbaru, Product  } from "../index"; // ✅ TAMBAHKAN IMPORT semuaKelas dan faq
 import { useNavigate } from "react-router-dom";
 import FaqComponent from "../components/FaqComponent";
 import { Swiper, SwiperSlide } from "swiper/react";

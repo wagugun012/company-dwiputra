@@ -1,6 +1,6 @@
 import { useState, useMemo } from "react";
 import { Container, Row, Col, Form, InputGroup } from "react-bootstrap";
-import { semuaKelas } from "../data/index";
+import { semuaKelas } from "../index";
 
 const KelasPage = () => {
   const [searchTerm, setSearchTerm] = useState("");
