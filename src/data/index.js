@@ -1,16 +1,16 @@
-import KelasImage1 from "../assets/img/kelas/kelas-1.jpg";
-import KelasImage2 from "../assets/img/kelas/kelas-2.jpg";
-import KelasImage3 from "../assets/img/kelas/kelas-3.jpg";
-import KelasImage4 from "../assets/img/kelas/kelas-5.jpg";
-import KelasImage5 from "../assets/img/kelas/kelas-6.jpg";
-import KelasImage6 from "../assets/img/kelas/kelas-7.jpg";
-import KelasImage7 from "../assets/img/kelas/hvo_tebal.jpg";
-import KelasImage8 from "../assets/img/kelas/stiker_cromo.jpg";
-import KelasImage9 from "../assets/img/kelas/koran_polos.jpg";
-import KelasImage10 from "../assets/img/kelas/hvo-rapih.jpg";
-import Product1 from "../assets/img/kelas/product-01.jpg";
-import Product2 from "../assets/img/kelas/product-2.jpg";
-import Product3 from "../assets/img/kelas/product-3.jpg";
+import KelasImage1 from "../assets/kelas-1.jpg";
+import KelasImage2 from "../assets/kelas-2.jpg";
+import KelasImage3 from "../assets/kelas-3.jpg";
+import KelasImage4 from "../assets/kelas-5.jpg";
+import KelasImage5 from "../assets/kelas-6.jpg";
+import KelasImage6 from "../assets/kelas-7.jpg";
+import KelasImage7 from "../assets/hvo_tebal.jpg";
+import KelasImage8 from "../assets/stiker_cromo.jpg";
+import KelasImage9 from "../assets/koran_polos.jpg";
+import KelasImage10 from "../assets/hvo-rapih.jpg";
+import Product1 from "../assets/product-01.jpg";
+import Product2 from "../assets/product-2.jpg";
+import Product3 from "../assets/product-3.jpg";
 
 export const navLinks = [
   {

@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { Navbar, Container, Nav } from "react-bootstrap";
 import { navLinks } from "../data/index";
 import { NavLink } from "react-router-dom";
-import PerusImage from "../assets/img/perus-3.png";
+import PerusImage from "../assets/perus-3.png";
 
 const NavbarComponent = () => {
   const [changeColor, setChangeColor] = useState(false);
