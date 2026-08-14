@@ -166,7 +166,7 @@ const HomePage = () => {
                         
                         <button 
                           className="btn btn-primary"
-                          onClick={() => window.open("https://wa.me/6285222310485", "_blank")}
+                          onClick={() => window.open("https://wa.me/6288211550831", "_blank")}
                         >
                           <span>{kelas.buy}</span>
                           <svg
